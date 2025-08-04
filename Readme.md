@@ -32,10 +32,11 @@ Edit
 
 1. Clone the repository:
 
-   git clone https://github.com/ayushverma0508/responsive-landing-page
+   git clone https://github.com/ayushverma0508/Task_1_responsive-landing-page
 
 🙋‍♂️ Author
 
 Ayush Verma
 
 GitHub Profile - ayushverma0508
+
