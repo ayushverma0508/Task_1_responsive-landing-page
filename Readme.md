@@ -2,6 +2,9 @@
 
 This project is part of a Web Development Internship task where I was required to create a **Simple Responsive Landing Page** using HTML and CSS.
 
+## Live link 
+https://ayushverma0508.github.io/Task_1_responsive-landing-page/
+
 ## 📁 Project Structure
 
 responsive-landing-page/
@@ -39,4 +42,5 @@ Edit
 Ayush Verma
 
 GitHub Profile - ayushverma0508
+
 
